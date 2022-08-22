@@ -1,4 +1,4 @@
-<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
+<img src="https://drive.google.com/uc?id=1XPWLjUo2-j8iGw07ALcxu7oqJ3nkl2Ho" alt="Rocketseat+"/>
 
 # Criando Tabs Sincronizadas com o React Router 6 no ReactJS
 
